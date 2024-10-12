@@ -1,0 +1,10 @@
+# ninja log v6
+3	1359	1728768551162205817	build.ninja	2d37bddbafdedfd3
+30	414	1728756755338265194	CMakeFiles/Trading_Engine.dir/cmake_pch_arm64.hxx.pch	e684b0a0187c38f1
+32	419	1728756755339939131	TradingBotLib/CMakeFiles/TradingBotLib.dir/BlackScholes.cpp.o	517c819a4fcfacb8
+419	510	1728756755727462039	TradingBotLib/libTradingBotLib.a	6af22dbd4be3fa3e
+10	1485	1728753844970883364	TradingBotLib/CMakeFiles/TradingBotLib.dir/OrderBook.cpp.o	647f20933196da37
+31	419	1728756755339555001	TradingBotLib/CMakeFiles/TradingBotLib.dir/Stock.cpp.o	bf7c4de7e5e642be
+12	1815	1728765206840274726	CMakeFiles/Trading_Engine.dir/main.cpp.o	fd9e3467d81412a6
+23	291	1728753830187291853	TradingBotLib/CMakeFiles/TradingBotLib.dir/cmake_pch_arm64.hxx.pch	8462ce7cb6f1ae15
+1815	2336	1728765208642712097	Trading_Engine.app/Contents/MacOS/Trading_Engine	39c3468b2a3133e7
