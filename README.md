@@ -30,4 +30,3 @@ cd Market-Simulator mkdir build && cd build cmake .. make ./market_simulator
 
 - More complex market algorithms
 - Advanced trading strategies
-Copy this into your README.md, commit, and push it to GitHub. It will be properly formatted on your repository page.
